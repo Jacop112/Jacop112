@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacop112
-- 👀 I’m interested in microcontroller programming
-- 🌱 I’m currently learning micropython and python language
+- 👀 I’m interested in microcontroller programming and I like Writing patch script
+- 🌱 I’m currently learning Programming esp32 nd python language
 - 📫 How to reach me --> discord:bobekszef.
 - ⚡ Fun fact: 
 
