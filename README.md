@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacob
-- 🌱 I’m currently learning Programming esp32 nd python language
+- 🌱 I’m currently learning Programming esp32 and python language
 - 📫 How to reach me --> discord:bobekszef.
 
 <!---
